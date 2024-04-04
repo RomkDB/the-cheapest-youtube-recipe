@@ -3,6 +3,7 @@
 ## 프로젝트 개요
 ### 프로젝트 주제
 사용자가 원하는 요리의 메뉴명을 입력하면, 각 재료와 용량을 비교하여 가장 저렴한 가격으로 요리할 수 있는 유튜버의 레시피를 제공하는 서비스
+
 ### 프로젝트 기능
 음식명을 검색 시 최저가에 해당하는 레시피의 유튜브 정보와 재료의 정보 출력
 - 메뉴명 검색 : 사용자가 원하는 요리의 메뉴명을 입력하여 검색
@@ -23,21 +24,21 @@
 
 ## 프로젝트 내용
 ### Software Architecture
-![Software Architecture](/the-cheapest-youtube-recipe/img/sw_archi.drawio.png)
+![Software Architecture](/img/sw_archi.drawio.png)
 
 ### Infra Architecture
-![Infra Architecture](/the-cheapest-youtube-recipe/img/final_infra.drawio.png)
+![Infra Architecture](/img/final_infra.drawio.png)
 
 ### Data Architecture
-![Data Architecture](/the-cheapest-youtube-recipe/img/data_pipeline.drawio.png)
+![Data Architecture](/img/data_pipeline.drawio.png)
 
 ### ERD
 ![ERD](/img/service_erd.drawio.png)
 
 ## 결과물
-![Result](/the-cheapest-youtube-recipe/img/project_result.png)
+![Result](/img/project_result.png)
 
-## 개선점&회고
+## 회고(4L)
 - **Liked**
     - Text 데이터 처리 관련 문제를 해결해 나가는 과정을 잘 헤어나간 것 같습니다.
     - 데이터 및 개발 관련 다양한 기술들을 활용하고 도전할 수 있어서 좋았습니다.
