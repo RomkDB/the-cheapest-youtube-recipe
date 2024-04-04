@@ -32,7 +32,7 @@
 ![Data Architecture](/the-cheapest-youtube-recipe/img/data_pipeline.drawio.png)
 
 ### ERD
-![ERD](/the-cheapest-youtube-recipe/img/service_erd.drawio.png)
+![ERD](/img/service_erd.drawio.png)
 
 ## 결과물
 ![Result](/the-cheapest-youtube-recipe/img/project_result.png)
